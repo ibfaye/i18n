@@ -4,8 +4,8 @@ export const {
   useI18n,
   useScopedI18n,
   useChangeLocale,
-  useCurrentLocale,
   I18nProviderClient,
+  useCurrentLocale,
 } = createI18nClient({
   en: () => import('./en'),
   fr: () => import('./fr'),

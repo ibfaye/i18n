@@ -1,5 +1,4 @@
 'use client'
-
 import { useScopedI18n } from '@/locales/client'
 import React from 'react'
 
