@@ -8,7 +8,7 @@ git clone https://github.com/ibfaye/i18n.git
 ```
 
 and install the required packages:
-$${\color{red}***Make sure that "next-international@1.0.1" is used, if you use "next-international@1.1.14" or higher you will get missed"locale" varibale error. (I am working on an updated version)***}$$
+***Make sure that "next-international@1.0.1" is used, if you use "next-international@1.1.14" or higher you will get missed"locale" varibale error. (I am working on an updated version)***
 ```bash
 pnpm install
 # or
